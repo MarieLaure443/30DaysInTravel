@@ -1,0 +1,1 @@
+Android application to discover a different travel destination for 30 days
